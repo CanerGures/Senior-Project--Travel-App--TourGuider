@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundImage="fire1"
+             x:Class="Bitirme.Camppage">
+    
+    <Grid RowSpacing="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+
+
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" >
+            <Grid >
+               
+               <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80" />
+                    <ColumnDefinition Width="80" />
+                   
+                </Grid.ColumnDefinitions>
+                <Image Source="Group11" BackgroundColor="Transparent">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Tapped="TapGestureRecognizer_Tapped"/>
+                    </Image.GestureRecognizers>
+                </Image>
+            </Grid>
+        </Grid> 
+        
+        <Grid Grid.Row="1" BackgroundColor="Transparent" Padding="5" >
+            <ImageButton Clicked="ImageButton_Clicked"
+                Source="Group12"
+                         BackgroundColor="Transparent"/>
+        </Grid>
+       
+        <Grid Grid.Row="3" BackgroundColor="Transparent" Padding="5" >
+            <ImageButton Source="Group13" 
+                         Clicked="ImageButton_Clicked_1"
+                         BackgroundColor="Transparent"/>
+        </Grid>
+        
+        <Grid Grid.Row="5" BackgroundColor="Transparent" Padding="5" >
+            <ImageButton Source="Group14" Clicked="ImageButton_Clicked_2"
+                         BackgroundColor="Transparent"/>
+        </Grid>
+        
+
+
+
+
+
+    </Grid>
+</ContentPage>

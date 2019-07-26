@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="Black"
+             x:Class="Bitirme.Actionpage">
+    <AbsoluteLayout BackgroundColor="Black"
+                    AbsoluteLayout.LayoutBounds="0, 220, 1, 50" AbsoluteLayout.LayoutFlags="XProportional,WidthProportional">
+        <AbsoluteLayout BackgroundColor="Black" AbsoluteLayout.LayoutBounds="0,0,.45,.3" AbsoluteLayout.LayoutFlags="YProportional,WidthProportional,HeightProportional">
+            <Image Source="historical"
+                        AbsoluteLayout.LayoutBounds="15,.1" AbsoluteLayout.LayoutFlags="YProportional">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                        Tapped="TapGestureRecognizer_Tapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+        </AbsoluteLayout>
+        <AbsoluteLayout BackgroundColor="Black" AbsoluteLayout.LayoutBounds="0,.5,.45,.3" AbsoluteLayout.LayoutFlags="YProportional, WidthProportional,HeightProportional">
+            <Image Source="hotel"
+                        AbsoluteLayout.LayoutBounds="15,.5" AbsoluteLayout.LayoutFlags="YProportional" >
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                        Tapped="TapGestureRecognizer_Tapped_1"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+        </AbsoluteLayout>
+
+        <AbsoluteLayout BackgroundColor="Black" AbsoluteLayout.LayoutBounds="0,1,.45,.3" AbsoluteLayout.LayoutFlags="YProportional,WidthProportional,HeightProportional">
+            <Image Source="camp"
+                        AbsoluteLayout.LayoutBounds="15,.9" AbsoluteLayout.LayoutFlags="YProportional" >
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                        Tapped="Camp_Clicked"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+        </AbsoluteLayout>
+
+        <AbsoluteLayout BackgroundColor="Black" AbsoluteLayout.LayoutBounds="190,0,.45,.3" AbsoluteLayout.LayoutFlags="YProportional,WidthProportional,HeightProportional">
+            <Image Source="food"
+                        AbsoluteLayout.LayoutBounds="12,.1" AbsoluteLayout.LayoutFlags="YProportional" >
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                        Tapped="TapGestureRecognizer_Tapped_2"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+
+        </AbsoluteLayout>
+
+        <AbsoluteLayout BackgroundColor="Black" AbsoluteLayout.LayoutBounds="190,0.5,.45,.3" AbsoluteLayout.LayoutFlags="YProportional, WidthProportional,HeightProportional">
+            <Image Source="airport"
+                        AbsoluteLayout.LayoutBounds="12,.5" AbsoluteLayout.LayoutFlags="YProportional" >
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                        Tapped="TapGestureRecognizer_Tapped_3"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+        </AbsoluteLayout>
+
+        <AbsoluteLayout BackgroundColor="Black" AbsoluteLayout.LayoutBounds="190,1,.45,.3" AbsoluteLayout.LayoutFlags="YProportional, WidthProportional,HeightProportional">
+            <Image Source="adventure"
+                        AbsoluteLayout.LayoutBounds="12,.9" AbsoluteLayout.LayoutFlags="YProportional" >
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                        Tapped="Adventure_Clicked"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+        </AbsoluteLayout>
+    </AbsoluteLayout>
+
+</ContentPage>

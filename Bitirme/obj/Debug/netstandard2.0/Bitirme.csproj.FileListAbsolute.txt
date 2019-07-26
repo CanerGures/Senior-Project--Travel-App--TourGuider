@@ -1,0 +1,138 @@
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.deps.json
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.dll
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.pdb
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.csprojAssemblyReference.cache
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.csproj.CoreCompileInputs.cache
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.AssemblyInfoInputs.cache
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.AssemblyInfo.cs
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.dll
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.pdb
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Homepage.xaml.g.cs
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Mappage.xaml.g.cs
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\NewPage.xaml.g.cs
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\CreateAccountPage.xaml.g.cs
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ForgetPasswordPage.xaml.g.cs
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\OptionPage.xaml.g.cs
+C:\Users\sulo3\source\repos\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.deps.json
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.dll
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.pdb
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.csprojAssemblyReference.cache
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\CreateAccountPage.xaml.g.cs
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ForgetPasswordPage.xaml.g.cs
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Homepage.xaml.g.cs
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Mappage.xaml.g.cs
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\NewPage.xaml.g.cs
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\OptionPage.xaml.g.cs
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.csproj.CoreCompileInputs.cache
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.AssemblyInfoInputs.cache
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.AssemblyInfo.cs
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.dll
+C:\Users\sulo3\Desktop\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.pdb
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.deps.json
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.dll
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.pdb
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.csprojAssemblyReference.cache
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\App.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\CreateAccountPage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ForgetPasswordPage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Homepage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Mappage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\OptionPage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.csproj.CoreCompileInputs.cache
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.AssemblyInfoInputs.cache
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.AssemblyInfo.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.dll
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.pdb
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Cities.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Actionpage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Adventurepage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Airportpage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Camppage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Foodpage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Historicalpage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Hotelpage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\WeatherView.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\XamlC.stamp
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Advanturepage.xaml.g.cs
+A:\Xamarin proje\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ForecastView.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.deps.json
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.dll
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.pdb
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.csprojAssemblyReference.cache
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Actionpage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Advanturepage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Adventurepage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Airportpage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Camppage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Cities.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\CreateAccountPage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Foodpage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ForecastView.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ForgetPasswordPage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Historicalpage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Homepage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Hotelpage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Mappage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\OptionPage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\WeatherView.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.csproj.CoreCompileInputs.cache
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.AssemblyInfoInputs.cache
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.AssemblyInfo.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.dll
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.pdb
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideCamppage\CampingSpots.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideCamppage\GearAdvice.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideCamppage\NaturalParks.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideFoodpage\breakfast.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideFoodpage\coffee.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideFoodpage\dinner.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideFoodpage\nightclubs.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Actionpage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Advanturepage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Adventurepage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Airportpage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Camppage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Cities.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\CreateAccountPage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Foodpage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ForecastView.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ForgetPasswordPage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Historicalpage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Homepage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Hotelpage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideCamppage\CampingSpots.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideCamppage\GearAdvice.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideCamppage\NaturalParks.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideFoodpage\breakfast.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideFoodpage\coffee.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideFoodpage\dinner.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\insideFoodpage\nightclubs.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Mappage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\OptionPage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\WeatherView.xaml.g.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.csproj.CoreCompileInputs.cache
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.AssemblyInfoInputs.cache
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.AssemblyInfo.cs
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.dll
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\Bitirme.pdb
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.deps.json
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.dll
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\bin\Debug\netstandard2.0\Bitirme.pdb
+C:\Users\timsa\Downloads\Bitirme (1)\Bitirme (1)\Bitirme\Bitirme\Bitirme\Bitirme\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            xmlns:local="clr-namespace:Bitirme"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            BarBackgroundColor="#BB8C4B"
+    BarTextColor="Black"
+             x:Class="Bitirme.Homepage">
+  <!--Pages can be added as references or inline-->
+        <TabbedPage.ToolbarItems>
+            <ToolbarItem Text="Cities"
+                         
+                     Clicked="ToolbarItem_Clicked"/>
+        </TabbedPage.ToolbarItems>
+    
+
+    <local:ProfilePage Title="Profile"
+                           Icon="ic_person_24px.png"/>
+    
+    <local:Mappage Title="Map"
+                       Icon="ic_map_24px.png"/>
+
+    <local:OptionPage Title="Option"
+                      Icon="ic_brightness_high_24px.png"/>
+
+
+</TabbedPage>
+

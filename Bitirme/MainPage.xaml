@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Bitirme"
+             x:Class="Bitirme.MainPage">
+    <Grid RowSpacing="0" BackgroundColor="Black" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="3*"/>
+
+
+        </Grid.RowDefinitions>
+
+
+        <Grid Grid.Row="1" BackgroundColor="Black" Padding="10" HeightRequest="100">
+            <Image Source="logo" />
+        </Grid>
+
+        <Grid Grid.Row="3" RowSpacing="15" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+
+
+            </Grid.RowDefinitions>
+            <Grid RowSpacing="2">
+                <Grid.ColumnDefinitions >
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="40"/>
+
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="1" RowSpacing="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Text="Username" TextColor="White" Opacity="0.7" HorizontalOptions="Center"/>
+                    <Entry x:Name="loginentry"
+                           Placeholder="" 
+                           HorizontalTextAlignment="Center" 
+                           Grid.Row="1" 
+                           BackgroundColor="#BB8C4B"
+                           />
+
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="40"/>
+
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Text="Password" TextColor="White" Opacity="0.7" HorizontalOptions="Center"/>
+                    <Entry x:Name="passwordentry" HorizontalTextAlignment="Center" Grid.Row="1" BackgroundColor="#BB8C4B"/>
+
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="2" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="120"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="120"/>
+
+
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Button Text="Log In" 
+                            BackgroundColor="Black" 
+                            TextColor="#BB8C4B" 
+                            CornerRadius="20"
+                            BorderColor="#BB8C4B"
+                            BorderWidth="3"
+                            Clicked="Loginbutton_Clicked"/>
+                    <Grid Grid.Row="2" HorizontalOptions="Center" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="120"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="120"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+
+                        <Button Clicked="Createaccount_Clicked" Text="Create New Account" HorizontalOptions="Center" TextColor="White" Opacity="0.7" BackgroundColor="Black" Font="SagoeUI" FontSize="Micro" >
+
+                        </Button>
+                    </Grid>
+                    <Grid Grid.Row="3" HorizontalOptions="Center" RowSpacing="2" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="120"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="120"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+
+                        <Button Clicked="Forgetpassword_Clicked" Text="Forget Your Password?" HorizontalOptions="Center" TextColor="White" Opacity="0.7" BackgroundColor="Black" Font="SagoeUI" FontSize="Micro">
+
+                        </Button>
+                    </Grid>
+
+
+                </Grid>
+
+            </Grid>
+
+
+        </Grid>
+
+    </Grid>
+
+</ContentPage>
