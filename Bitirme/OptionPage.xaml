@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bitirme.OptionPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center"
+                     >
+            <Label Text="Settings"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Image Source="Line5.png"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   Margin="20"
+                   />
+            <Label Text="Feedback"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   Margin="5"/>
+            <Label Text="Clear Search History"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   Margin="5"/>
+            <Label Text="Change Password"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   Margin="5"/>
+            <Label Text="About Us"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   Margin="5"/>
+            <Label Text="Contact Us"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   Margin="5"/>
+            
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

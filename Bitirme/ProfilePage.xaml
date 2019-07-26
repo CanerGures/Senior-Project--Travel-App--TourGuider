@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             x:Class="Bitirme.ProfilePage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <ScrollView>
+            <AbsoluteLayout BackgroundColor="Black">
+                
+                <Button BackgroundColor="Transparent"
+                    AbsoluteLayout.LayoutBounds=".5,40,100,100" AbsoluteLayout.LayoutFlags="XProportional" BorderRadius="40" BorderColor="#BB8C4B" BorderWidth="5" />
+                <AbsoluteLayout AbsoluteLayout.LayoutBounds=".5,40,100,100" AbsoluteLayout.LayoutFlags="XProportional" Padding="5,0,0,0">
+                    
+                   
+                </AbsoluteLayout>
+                
+                
+                <AbsoluteLayout AbsoluteLayout.LayoutBounds="0,170,1,50" AbsoluteLayout.LayoutFlags="WidthProportional" Padding="5,0,0,0">
+                    <Label Text="City:" TextColor="#BB8C4B"
+                        AbsoluteLayout.LayoutBounds="0,25,.25,50" AbsoluteLayout.LayoutFlags="WidthProportional" Opacity="40"/>
+                    <Entry Text="35" TextColor="White" BackgroundColor="Transparent"
+                        AbsoluteLayout.LayoutBounds="1,10,.75,50" AbsoluteLayout.LayoutFlags="XProportional,WidthProportional" />
+                </AbsoluteLayout>
+                <AbsoluteLayout AbsoluteLayout.LayoutBounds="0,220,1,50" AbsoluteLayout.LayoutFlags="WidthProportional" Padding="5,0,0,0">
+                    <Label Text="Historical:" TextColor="#BB8C4B"
+                        AbsoluteLayout.LayoutBounds="0,25,.25,50" AbsoluteLayout.LayoutFlags="WidthProportional" Opacity="40"/>
+                    <Entry Text="Xamarin.Forms" TextColor="White"
+                        BackgroundColor="Transparent" AbsoluteLayout.LayoutBounds="1,10,.75,50" AbsoluteLayout.LayoutFlags="XProportional,WidthProportional" Opacity="40"/>
+                </AbsoluteLayout>
+                <AbsoluteLayout AbsoluteLayout.LayoutBounds="0,270,1,50" AbsoluteLayout.LayoutFlags="WidthProportional" Padding="5,0,0,0">
+                    <Label Text="Restaurant:" TextColor="#BB8C4B"
+                        AbsoluteLayout.LayoutBounds="0,25,.25,50" AbsoluteLayout.LayoutFlags="WidthProportional" />
+                    <Entry Text="Xamarin, C#, .NET, Mono" TextColor="White"
+                        BackgroundColor="Transparent" AbsoluteLayout.LayoutBounds="1,10,.75,50" AbsoluteLayout.LayoutFlags="XProportional,WidthProportional" Opacity="40"/>
+                </AbsoluteLayout>
+                <AbsoluteLayout AbsoluteLayout.LayoutBounds="0,320,1,50" AbsoluteLayout.LayoutFlags="WidthProportional" Padding="5,0,0,0">
+                    <Label Text="Camp:" TextColor="#BB8C4B"
+                        AbsoluteLayout.LayoutBounds="0,25,.25,50" AbsoluteLayout.LayoutFlags="WidthProportional" />
+                    <Entry Text="Xamarin, C#, .NET, Mono" TextColor="White"
+                        BackgroundColor="Transparent" AbsoluteLayout.LayoutBounds="1,10,.75,50" AbsoluteLayout.LayoutFlags="XProportional,WidthProportional" Opacity="40"/>
+                </AbsoluteLayout>
+                <AbsoluteLayout AbsoluteLayout.LayoutBounds="0,370,1,50" AbsoluteLayout.LayoutFlags="WidthProportional" Padding="5,0,0,0">
+                    <Label Text="Hotel:" TextColor="#BB8C4B"
+                        AbsoluteLayout.LayoutBounds="0,25,.25,50" AbsoluteLayout.LayoutFlags="WidthProportional" />
+                    <Entry Text="Xamarin, C#, .NET, Mono" TextColor="White"
+                        BackgroundColor="Transparent" AbsoluteLayout.LayoutBounds="1,10,.75,50" AbsoluteLayout.LayoutFlags="XProportional,WidthProportional" Opacity="40"/>
+                </AbsoluteLayout>
+                <AbsoluteLayout AbsoluteLayout.LayoutBounds="0,430,1,50" AbsoluteLayout.LayoutFlags="WidthProportional" Padding="5,0,0,0">
+                    <Label Text="Last Visit:" TextColor="#BB8C4B"
+                        AbsoluteLayout.LayoutBounds="0,25,.25,50" AbsoluteLayout.LayoutFlags="WidthProportional" />
+                    <Entry Text="Xamarin, C#, .NET, Mono" TextColor="White"
+                        BackgroundColor="Transparent" AbsoluteLayout.LayoutBounds="1,10,.75,50" AbsoluteLayout.LayoutFlags="XProportional,WidthProportional" Opacity="40"/>
+                </AbsoluteLayout>
+                <AbsoluteLayout AbsoluteLayout.LayoutBounds="0,480,1,50" AbsoluteLayout.LayoutFlags="WidthProportional" Padding="5,0,0,0">
+                    <Label Text="Destination:" TextColor="#BB8C4B"
+                        AbsoluteLayout.LayoutBounds="0,25,.25,50" AbsoluteLayout.LayoutFlags="WidthProportional" />
+                    <Entry Text="Xamarin, C#, .NET, Mono" TextColor="White"
+                        BackgroundColor="Transparent" AbsoluteLayout.LayoutBounds="1,10,.75,50" AbsoluteLayout.LayoutFlags="XProportional,WidthProportional" Opacity="40"/>
+                </AbsoluteLayout>
+                <AbsoluteLayout AbsoluteLayout.LayoutBounds="0,130,1,50" AbsoluteLayout.LayoutFlags="WidthProportional" Padding="5,0,0,0">
+                    <Label Text="Age:" TextColor="#BB8C4B"
+                        AbsoluteLayout.LayoutBounds="0,25,.25,50" AbsoluteLayout.LayoutFlags="WidthProportional" />
+                    <Entry Text="35" TextColor="White" BackgroundColor="Transparent"
+                        AbsoluteLayout.LayoutBounds="1,10,.75,50" AbsoluteLayout.LayoutFlags="XProportional,WidthProportional" Opacity="40" />
+                </AbsoluteLayout>
+                
+            </AbsoluteLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
